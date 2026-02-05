@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+.Game-container {
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 2px 2px 2px 2px rgb(210, 105, 30, 0.9);
+}
+.Game-board {
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  grid-template-rows: repeat(3, 100px);
+  gap: 8px;
+  width: 315px;
+  height: 315px;
+  margin: 0 auto 20px auto;
+  background-color: aquamarine;
+}
+.item {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
