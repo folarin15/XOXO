@@ -1,0 +1,37 @@
+This page represents the landing page for **GetResponse**, an email marketing and automation platform. You can use the following breakdown as a structural guide for your own UI:
+
+### **1. Navigation Bar (Top)**
+
+- **Left**: Company logo (GetResponse).
+- **Center**: Links for Product, Resources, Enterprise, and Pricing.
+- **Right**: "Log in" link, "Book a demo" button (outlined/secondary), and "Sign up free" button (solid blue/primary).
+
+### **2. Hero Section (Left Side)**
+
+- **Tagline**: "EMAIL MARKETING & AUTOMATION PLATFORM" in small, all-caps grey text.
+- **Main Heading**: "Own your growth with AI driven email and automation" (Large, bold, sans-serif font).
+- **Sub-headline**: A brief description stating that email, automation, and SMS are powered by AI to help users create, test, and sell faster.
+- **Call to Action (CTA)**:
+- **Primary**: Large yellow "Start free trial →" button.
+- **Secondary**: Black "See our pricing →" button.
+
+- **Trust Signals**: Small text below buttons stating "No credit card required | Cancel anytime."
+
+### **3. Hero Visual (Right Side)**
+
+- **Automation Flow**: A visual diagram showing a logic path:
+- Trigger: "Product Face Cream is viewed."
+- Condition: "Is the visitor already your subscriber?"
+- Actions: Branching paths leading to "Send follow-up with 25% off" or "Show signup discount popup."
+- Result: A bottom node labeled "More revenue generated +30% increase in sales."
+
+- **Product Feature**: A floating card on the far right showing a "Skincare essentials 25% off" promotion with a "SHOP NOW" button and an image of a cream jar.
+
+### **4. Social Proof Bar (Bottom)**
+
+- **Text Headline**: "TRUSTED BY 350K+ ENTREPRENEURS, ECOMMERCE STORES, AND GLOBAL BRANDS" (Small, grey, all-caps).
+- **Logo Grid**: A grayscale row of partner/customer logos including Red Bull, UNICEF, CD Projekt, UNESCO, Revolut, and Carrefour.
+
+### **5. Support Feature**
+
+- **Floating Action Button (FAB)**: A blue chat bubble icon in the bottom right corner for customer support.
